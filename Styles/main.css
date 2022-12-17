@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap');
+
+
+#header{
+        margin: 10px;
+        height: 150px;
+        width: 100%;
+        background-color: lightskyblue;
+        position: relative;
+       
+        
+    }
+    #header h5{
+        margin-top: -10px;
+        padding-left: 10px;
+        
+    }
+
+    #header nav{
+        width: 100%;
+       
+        padding: 10px;
+        margin: -20px ;
+        text-align: right;
+        font-size: x-large;
+        
+        
+   }
+
+   #text {
+    font-family: cursive;
+    text-align: center;
+   }
+   #header nav a{
+       color: black;
+       padding: 10PX;
+   
+   }
+  
+   .quiz-box {
+      box-sizing: border-box ;
+      width: 60%;
+      background-color: lightskyblue;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 10px;
+
+   }
+   .quiz-box .question-number {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    border-bottom:1px solid #cccccc ;
+    padding: 10px;
+    line-height: 25px;
+  }
+
+   .question-text{
+    font-size: 22px;
+    color: #000000;
+    line-height: 28px;
+    font-weight: 400;
+    padding: 20px;
+ }
+
+   .option-container .option{
+    background-color: white;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+    
+   }
+
+   .btn-box {
+    box-sizing: border-box ;
+    width: 15%;
+    background-color: lightskyblue;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+
+   }
+    #text{
+        font-weight: 400;
+        color: #000000;
+        margin: 3px;
+    }
+    
+  
+
+  #checkbox{
+    display: inline;
+    padding-left: 35%;
+    font-size: larger;
+    font-weight: 600 ;
+    color: #000000;
+    
+  }
+ 
+   
+  
+  #checkbox input{
+    margin: 0 5px 0 20px;
+  }

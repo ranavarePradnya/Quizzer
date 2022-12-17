@@ -1,0 +1,54 @@
+
+body{
+    font-family:'Raleway', sans-serif;   /* aleway=font family (see in link),sans serif in font name */
+    height: 100%;
+}
+
+
+
+#hero{
+    background-image: url(../Assets/bg3.jpg);
+    height: 500px;
+    width: 100%;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#hero h5{
+    margin-left: 10px;
+    
+}
+
+.caption p{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.title-container {
+    color: black;
+    
+     z-index: 99;
+    position: relative;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 30px;
+
+
+}
+
+
+
+
+
+
+
+#category{
+    background: #f1f1f1;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: cursive;
+   }
+
